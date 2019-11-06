@@ -1,0 +1,57 @@
+
+nav{
+    background-color: #8BC34A;
+}
+nav .nav-wrapper {
+    border-top: 5px solid #689F38;
+}
+
+nav .brand-logo {
+    width: 80px;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main{
+    flex: 1 0 auto;
+}
+.page-footer{
+    background-color:#8bc349;
+}
+.footer-copyright{
+    background-color: #689f38!important;
+}
+.imagen_perfil{
+  width: 250px;
+  border-radius: 50%;
+}
+.nombre{
+  color: white;
+  margin-top: 10%
+}
+.parallax_custom_color{
+  background:#4CAF50;
+}
+.imagen_parallax{
+  opacity: 0.8!important;
+}
+.elementos_centrados{
+  text-align: center;
+}
+.imagen_conoceme{
+  width: 300px;
+  border: dashed #8bc349 2px;
+  padding: 10px;
+}
+.conoceme p{
+  text-align: justify;
+}
+.justificado{
+  text-align: justify;
+}
+.centrado{
+  margin:auto;
+}
